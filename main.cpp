@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog whimpers
+dog.whimper();
+//  action 3:    the dog  runs
+dog.run();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    engine
+//  action 1:    engine accelerates
+engine.accelerate();
+//  action 2:    engine decelerates
+engine.decelerate();
+//  action 3:    engine idles
+engine.idle();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    turntable
+//  action 1:     turntable spin at 45
+turntable.spinAtFortyFive();
+//  action 2:    turntable spin at 33
+turntable.spinAtThirtyThree();
+//  action 3:    turntable spin at 78
+turntable.spinAtSeventyEight();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    eyes
+//  action 1:    eyes look left
+eyes.lookLeft();
+//  action 2:    eyes look right
+eyes.lookRight();
+//  action 3:  eyes roll  
+eyes.roll();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    tongue
+//  action 1: tongues protrudes
+tongue.protrude();
+//  action 2:    tongue licks lips
+tongue.lickLips();
+//  action 3:    tongue touches roof of mouth
+tongue.touchRoofOfMouth();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    thermostat
+//  action 1:    thermostat switches on
+thermostat.switchOn();
+//  action 2:    thermostat switches off
+thermostat.switchOff();
+//  action 3:    thermostat resets
+thermostat.reset();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    hair
+//  action 1: hair grows
+hair.grow();
+//  action 2: hair greys
+hair.changeToGrey();
+//  action 3:    hair curls
+hair.curl();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    cat
+//  action 1:    cat leaps
+cat.leaps();
+//  action 2:    cat purrs
+cat.purr();
+//  action 3:    cat blinks    
+cat.blink();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    kettle
+//  action 1:    kettle consumes electricity
+kettle.consumeElectricity();
+//  action 2:    kettle heats water
+kettle.heatWater();
+//  action 3:    kettle switch illuminates
+kettle.switchIlluminate();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    tapeDeck
+//  action 1:    tapeDeck fastforward
+tapeDeck.spoolFastforward();
+//  action 2:    tapeDeck rewind
+tapeDeck.spoolRewind();
+//  action 3:    tapeDeck plays
+tapeDeck.spoolPlay();
 
 
 #endif
