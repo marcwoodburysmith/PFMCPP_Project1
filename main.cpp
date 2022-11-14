@@ -65,8 +65,8 @@ dog.run();
 engine.accelerate();
 //  action 2:    engine decelerates
 engine.decelerate();
-//  action 3:    engine neutral
-engine.neutral();
+//  action 3:    engine idles
+engine.idle();
 //  3)
 //  Noun:    turntable
 //  action 1:     turntable spin at 45
@@ -124,13 +124,13 @@ kettle.heatWater();
 //  action 3:    kettle switch illuminates
 kettle.switchIlluminate();
 //  10)
-//  Noun:    human
-//  action 1:    human laughs
-human.laugh();
-//  action 2:    human cries
-human.cry();
-//  action 3:    human gasps
-human.gasp();
+//  Noun:    tapeDeck
+//  action 1:    tapeDeck fastforward
+tapeDeck.spoolFastforward();
+//  action 2:    tapeDeck rewind
+tapeDeck.spoolRewind();
+//  action 3:    tapeDeck plays
+tapeDeck.spoolPlay();
 
 
 #endif
